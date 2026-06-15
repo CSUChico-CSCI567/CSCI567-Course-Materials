@@ -76,7 +76,31 @@ You will not learn the material if you don't put in the time and effort required
 
 The first time you cheat, you will get a 0 on the test or assignment. The second time you cheat you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy until I put together one of my own.
 
+### Use of LLMs and AI Tools
 
+Large language models and AI coding tools are not allowed for the individual programming assignments in this course. This includes ChatGPT, Claude, Gemini, GitHub Copilot, Copilot in VS Code, Cursor, CodeWhisperer, and any other tool that generates, rewrites, completes, or explains code for you. For individual assignments, all submitted code must be your own work.
+
+The final project is different. For the final project, you may use LLMs to help generate small code snippets, debug limited sections, or understand specific APIs. You may not use an LLM to generate the entire project, major features, overall architecture, or large portions of the application. You and your group are still responsible for understanding, explaining, maintaining, and extending all submitted code.
+
+Any LLM use on the final project must be cited either in code comments near the generated or modified code or in the project README. Your citation should include the tool used, the prompt or a clear summary of the prompt, what code or idea was used, and how you changed it before submitting.
+
+Example code comment citation:
+
+```dart
+// LLM use: ChatGPT, prompt: "Show a Flutter example for validating an email TextField."
+// Used the regular expression idea, then rewrote the widget integration for this project.
+```
+
+Example README citation:
+
+```markdown
+## LLM Usage
+
+- Tool: GitHub Copilot in VS Code
+- Prompt/usage: Asked for a short example of using the http package to make a GET request in Flutter.
+- Used for: The basic request/response handling pattern in lib/services/weather_api.dart.
+- Changes made: Adapted the example to our app's model classes, error handling, and UI state.
+```
 
 >I expect all students to understand and follow the University's honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
