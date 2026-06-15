@@ -10,13 +10,6 @@ CINS 370 with a grade of C or higher, or CSCI 211 and MINS 335, or MINS 325 and 
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
-## Course Accounts
-
-You need an account on the Moodle system.
-
-Go to [https://moodle.csuchico.edu](https://moodle.csuchico.edu "Moodle"), login, and enroll in the CSCI567 account.
-
-You will use this system to get your grades. I'll also be enrolling you in a Piazza discussion board for use in this course.
 
 ## Textbook
 
@@ -59,17 +52,15 @@ Assignments will NOT be accepted more that 24 hours after the due date.
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You should automatically be enrolled when you enrolled in this course on Moodle. You should post any general questions here first as this will allow more students to benefit from the answer vs me potentially answering the same questions numerous times.
+We will be using EdStem for a class discussion board. You should have gotten an invite email from them to register just before the start of the class, but there is a self-enroll link on Canvas. You should post any general questions here first, as this will allow more students to benefit from the answer, rather than me potentially answering the same questions numerous times.
 
-Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI567'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI567'** in the subject so it will be filtered correctly. **ALL EMAILS WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject, do not expect a response, as I will not open it or respond to it.
 
-I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
+I'll make it a habit to respond immediately to emails received between 9 am and 5 pm, except when I'm in a meeting, lecture, etc. Any emails outside those times will be answered as I can, or potentially the next morning at 9am, so please email me before 5pm.
 
-I will routinely communicate with the class via announcements on the Piazza board. Make sure your email on Moodle that is integrated into Piazza is one you check regularly so that you don't miss any of these communications.
+I will routinely communicate with the class via announcements on the Edstem board. 
 
-Make sure you have a Moodle account and that you can access Piazza from the class page, you will not receive the class e-mails and may miss important information about the class if your account wasn't created.
-
-If you drop the class, you should be able to un-enroll from Moodle/Piazza to stop receiving messages. Let me know if you drop the class and still get e-mail.
+If you drop the class, you should be able to unenroll from EdStem to stop receiving messages. Let me know if you drop the class and still get an email.
 
 ## Responsibilities
 
@@ -87,7 +78,7 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 
 
 
->I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
+>I expect all students to understand and follow the University's honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
 >The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
 
